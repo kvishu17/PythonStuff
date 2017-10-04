@@ -1,4 +1,3 @@
-#Some changes
 #import ipcalc
 #for x in ipcalc.Network('172.16.1.0/30'):
 #    print str(x)
